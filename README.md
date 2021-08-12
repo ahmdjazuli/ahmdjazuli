@@ -24,9 +24,6 @@ I´m Ahmad Jazuli, Deadwood in South Borneo, Indonesian.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmdjazuli&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdjazuli&layout=compact&count_private=true&theme=gruvbox" /> 
-<a href="https://github.com/ahmdjazuli/latihan_app" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdjazuli&repo=latihan_app&theme=gruvbox""></a>
-<a href="https://github.com/ahmdjazuli/operasional" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdjazuli&repo=operasional&theme=gruvbox""></a>
-<a href="https://github.com/ahmdjazuli/spk_karyawan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdjazuli&repo=spk_karyawan&theme=gruvbox""></a>
 
 ![Pengunjung Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmdjazuli.ahmdjazuli)
 
